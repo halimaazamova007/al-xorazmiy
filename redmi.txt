@@ -1,0 +1,7 @@
+cd [papka _ nomi] - bu biror papkaga kirish buyrugi 
+cd ..-joriy papkadagi fayl va papkalar royxatlari korsatish
+nano [filename.filetype]- fayl yaratish yoki korish 
+git clone [project_url] -loyihani klon qilish 
+git add .-gitga yangi ozgarish qoshish
+git commit m-"bajarilgan ishga qisqa tarif"-GITga qoshilganlarga tarif COMMIT berish
+GIT PUSH ORIGIN MAIN - barcha COMMITLARNI (barcha berilgan ioshlarni)git(github gitlab )ga saqlash.
